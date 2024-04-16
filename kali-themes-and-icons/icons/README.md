@@ -4,7 +4,7 @@ This directory contains various XFCE4 icon packs for customizing the appearance 
 
 ## Available Icon Packs
 
-- **Flat-Remix-Blue-Dark**: A dark blue-themed icon pack with a flat design.
-- **Flat-Remix-Blue-Light**: A light blue-themed icon pack with a flat design.
+- **Flat-Remix-Blue-Dark**: A dark blue-themed icon pack with a flat design.?(not uploaded bcz file size is 70mb)
+- **Flat-Remix-Blue-Light**: A light blue-themed icon pack with a flat design.(not uploaded bcz file size is 70mb)
 - **Flat-Remix-Purple-Dark**: A dark purple-themed icon pack with a flat design.
 - **Flat-Remix-Purple-Light**: A light purple-themed icon pack with a flat design.
