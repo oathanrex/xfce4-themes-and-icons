@@ -38,4 +38,4 @@ This guide will walk you through the process of customizing the XFCE4 Kali theme
 - Feel free to experiment with different themes and icons to find the combination that suits your preferences best.
 
 - If you find this project useful, consider supporting its development by [buying me a coffee](http://www.buymeacoffee.com/oathanrex).
-- Full Icons and themes uploaded [here](https://www.pling.com/p/2147305/).
+- Full Icons and themes uploaded [here](https://www.pling.com/p/2147305/). and for all themes you can visit [here](https://github.com/oathanrex/flat-remix/).
